@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lithan.com	TRUE	/Lithan-theme/	FALSE	1999999999	JSESSIONID	6649193AA6D0A6EF3B5BB16EBC5FBBD9
+www.lithan.com	TRUE	/	FALSE	1999999999	COOKIE_SUPPORT	true
+www.lithan.com	TRUE	/	FALSE	1999999999	JSESSIONID	5B8F422701CB2E1554AA1965CA3851E7
+www.lithan.com	TRUE	/	FALSE	1999999999	USER_NOT_FIRST_LOGIN	true
+www.lithan.com	TRUE	/	FALSE	1999999999	GUEST_LANGUAGE_ID	singapore_SG
+

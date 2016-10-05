@@ -1,0 +1,29 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 03 Oct 2016 22:39:51 at https://www.lithan.com/singapore/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.lithan.com/singapore/ -O1 "C:\My Web Sites\LithanWeb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:41:33	Error: 	"Not Found" (404) at link https://www.lithan.com/html/css/sp/video-btn.png (from https://www.lithan.com/html/css/sp/ninja-slider.css)
+22:41:43	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/css/img/icons/loader.GIF (from https://www.lithan.com/Lithan-theme/css/sp/sp_custom.css)
+22:41:43	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/css/images/Lithan_product/Active_arrow.png (from https://www.lithan.com/Lithan-theme/css/sp/sp_custom.css)
+22:41:43	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/css/images/careergenie/bg_slash_pillars.png (from https://www.lithan.com/Lithan-theme/css/sp/sp_custom.css)
+22:41:43	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/css/images/careergenie/bg_slash_systems_mgmt.png (from https://www.lithan.com/Lithan-theme/css/sp/sp_custom.css)
+22:41:51	Error: 	"Not Found" (404) at link https://www.lithan.com/singapore/img/icons/loader.GIF (from https://www.lithan.com/singapore/lithan-enterprises)
+22:41:54	Error: 	"Bad Request" (400) at link https://www.lithan.com/singapore/products?p_p_id=Product_WAR_SPProductportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1 (from https://www.lithan.com/singapore/products)
+22:42:00	Error: 	"Not Found" (404) at link https://www.lithan.com/singapore/documents/12720/20106/Video17.jpg?t=1407994910770 (from https://www.lithan.com/singapore/testimonials)
+22:42:27	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/images/aui/picker_bg.png (from https://www.lithan.com/html/css/portal/aui_deprecated.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475281632000)
+22:42:27	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/images/aui/color_indic.png (from https://www.lithan.com/html/css/portal/aui_deprecated.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475281632000)
+22:42:27	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/images/aui/hue.png (from https://www.lithan.com/html/css/portal/aui_deprecated.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475281632000)
+22:42:27	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/images/aui/select.png (from https://www.lithan.com/html/css/portal/aui_deprecated.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475281632000)
+22:42:39	Warning: 	File not parsed, looks like binary: https://www.lithan.com/Lithan-theme/css/font/fontawesome-webfont.woff2?v=4.4.0
+22:42:39	Error: 	"Not Found" (404) at link https://www.lithan.com/Lithan-theme/css/video-js.png (from https://www.lithan.com/Lithan-theme/css/video-js.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475282102000)
+22:43:27	Error: 	"Not Found" (404) at link https://www.lithan.com/SPProduct-portlet/Product_create/checkbox.png (from https://www.lithan.com/SPProduct-portlet/css/Products.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475282198000)
+22:43:27	Error: 	"Not Found" (404) at link https://www.lithan.com/SPProduct-portlet/Product_create/radiobutton.png (from https://www.lithan.com/SPProduct-portlet/css/Products.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475282198000)
+22:43:27	Error: 	"Not Found" (404) at link https://www.lithan.com/SPProduct-portlet/css/images/arrowImg.png (from https://www.lithan.com/SPProduct-portlet/css/Products.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475282198000)
+22:43:27	Error: 	"Not Found" (404) at link https://www.lithan.com/SPProduct-portlet/Lithan_product/Active_arrow.png (from https://www.lithan.com/SPProduct-portlet/css/Products.css?browserId=other&themeId=Lithan_WAR_Lithantheme&languageId=singapore_SG&b=6203&t=1475282198000)
+
+HTTrack Website Copier/3.48-22 mirror complete in 4 minutes 38 seconds : 456 links scanned, 438 files written (13570406 bytes overall) [7494186 bytes received at 26957 bytes/sec], 8170431 bytes transferred using HTTP compression in 270 files, ratio 18%, 15.5 requests per connection
+(17 errors, 1 warnings, 0 messages)

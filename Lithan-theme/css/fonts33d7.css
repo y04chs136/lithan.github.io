@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans&amp;browserId=other&amp;themeId=Lithan_WAR_Lithantheme&amp;languageId=singapore_SG&amp;b=6203&amp;t=1475282102000);
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("font/fontawesome-webfont93e3.eot?v=4.4.0");
+  src: url("font/fontawesome-webfontd41d.eot?#iefix&v=4.4.0") format("embedded-opentype"), url("font/fontawesome-webfont93e3.html?v=4.4.0") format("woff2"), url("font/fontawesome-webfont93e3.ttf?v=4.4.0") format("truetype"), url("font/fontawesome-webfont93e3.svg?v=4.4.0#fontawesomeregular") format("svg");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans'; }
+
